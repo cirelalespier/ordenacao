@@ -1,4 +1,4 @@
-var numeros = [3, 1, 2, 5];
+var numeros = [3, 1, 2, 5, 4, 8, 6];
 var i = 0;
 var aux;
 
